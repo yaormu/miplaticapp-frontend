@@ -1,6 +1,6 @@
-# miplaticapp
+# miplaticapp-frontend
 
-> Aplicación control de gastos
+> A Vue.js project
 
 ## Build Setup
 
